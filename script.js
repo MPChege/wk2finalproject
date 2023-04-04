@@ -1,5 +1,5 @@
 //Linking the JSON server with Javascript
-const BASE_URL = " http://localhost:3000";
+const BASE_URL = "    http://localhost:3000";
 const headers = {
     'Content-Type': 'application/json',
 };
